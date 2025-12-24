@@ -1,0 +1,8 @@
+{
+  "name": "Smart Learn",
+  "description": "A cutting-edge personalized learning platform utilizing Transformer models, Adversarial Training, and Quantum-inspired optimization for multimodal education management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
